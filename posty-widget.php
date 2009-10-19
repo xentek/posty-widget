@@ -2,26 +2,27 @@
 /*
 	Plugin Name: Posty Widget
 	Plugin URI: http://xentek.net/code/wordpress/plugins/
-	Description: Add any text you want as the value of the 'posty' custom field and it will show up in this widget. Title the widget with the 'posty-title' custom field. It only works on single posts. Code
+	Description: A custom widget that will display dynamic text from the values you enter in special custom fields on a post inside of a WordPress Widget.
+	Add any text you want as the value of the 'posty' custom field and it will show up in this widget. Title the widget with the 'posty-title' custom field. It only works on single posts.
 	Version: 0.5
 	Author: Eric Marden
 	Author URI: http://xentek.net/
 */
-/*  Copyright 2008  Eric Marden  (email : wp@xentek.net)
+/*	Copyright 2008	Eric Marden	 (email : wp@xentek.net)
 
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation; either version 3 of the License, or
-    (at your option) any later version.
+	This program is free software; you can redistribute it and/or modify
+	it under the terms of the GNU General Public License as published by
+	the Free Software Foundation; either version 3 of the License, or
+	(at your option) any later version.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program; if not, write to the Free Software
-    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+	You should have received a copy of the GNU General Public License
+	along with this program; if not, write to the Free Software
+	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 add_action('plugins_loaded', 'posty_widget_register');
