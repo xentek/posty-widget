@@ -1,7 +1,7 @@
-=== K2 Hook Up ===
+=== Posty Widget ===
 Contributors: xenlab
-Donate link: http://xentek.net/code/wordpress/plugins/k2-hook-up/
-Tags: k2, content, theme, themes, template, custom, css, html, javascript, formatting, style, snippets, code
+Donate link: http://xentek.net/code/wordpress/plugins/posty-widget/
+Tags: widgets, posts
 Requires at least: 2.5
 Tested up to: 2.9
 Stable tag: trunk
@@ -42,6 +42,8 @@ Only 'posty' and 'posty-title'. The value of 'posty-title' will be used to title
 The project is now hosted on [github.com](http://github.com/xentek/posty-widget). Just fork the project and send me a pull request.
 
 [New to git?](http://delicious.com/ericmarden/git)
+
+== Screenshots ==
 
 == Changelog ==
 
