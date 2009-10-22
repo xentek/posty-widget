@@ -3,7 +3,7 @@
 	Plugin Name: Posty Widget
 	Plugin URI: http://xentek.net/code/wordpress/plugins/
 	Description: A custom widget that will display dynamic text from the values you enter in special custom fields on a post inside of a WordPress Widget. Add any text you want as the value of the 'posty' custom field and it will show up in this widget. Title the widget with the 'posty-title' custom field. It only works on single posts.
-	Version: 0.5
+	Version: 0.5.1
 	Author: Eric Marden
 	Author URI: http://xentek.net/
 */

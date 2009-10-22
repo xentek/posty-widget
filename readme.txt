@@ -31,7 +31,7 @@ If you would like to create a widget from custom field text, this plugin is prob
 
 = Does it support multiple instances of the Widget? =
 
-Not yet. However, it was designed to place the widget in the same place on different pages, and then use the custom field values to 
+Not yet. However, it was designed to place the widget in the same place on different pages, and then use the custom field values to change it dynamically, depending on which post you were looking at.
 
 = Which Custom Field values does the plugin respond to? =
 
@@ -46,6 +46,9 @@ The project is now hosted on [github.com](http://github.com/xentek/posty-widget)
 == Screenshots ==
 
 == Changelog ==
+
+= 0.5.1 =
+* Fixed the FAQ section of the readme
 
 = 0.5 =
 * Initial Version of the Plugin released to the public.
